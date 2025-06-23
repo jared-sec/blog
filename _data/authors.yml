@@ -1,0 +1,10 @@
+# /_data/authors.yml
+
+Jared Artis:
+  name: "Jared Artis"
+  bio: "Engineer and Security Enthusiast"
+  avatar: "/assets/images/avatar.jpg"
+  links:
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: https://www.linkedin.com/in/jaa3
