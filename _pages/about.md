@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 ## Introduction
-Hello, I'm a cybersecurity professional with a deep focus on offensive security, cryptography, and
-systems-level engineering. I currently work in Operational Technology, helping secure and troubleshoot
+Hello, I'm a cybersecurity professional with a deep focus on offensive security. I currently work in Operational Technology, helping secure and troubleshoot
 industrial environments, with expertise spanning networking, automation, and critical infrastructure systems.
 
 ## Education
